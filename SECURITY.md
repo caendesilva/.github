@@ -11,5 +11,5 @@ All security vulnerabilities will be promptly addressed.
 ### Secure Messaging
 
 If your query contains sensitive information, you can contact me through my secure email caendesilva@proton.me.
-You can encrypt the message with my ECC (Curve25519) PGP public key #1e5927e9911dd85104e16cb87e3297d760686779
+You can encrypt the message with my ECC (Curve25519) PGP public key `#1e5927e9911dd85104e16cb87e3297d760686779`
 which is stored in the [public-key.txt](https://git.desilva.se/security/public-key.txt) file.
